@@ -5,6 +5,8 @@ oper = input("Choosxe a math operation (+, -, *, /): ")
 a = int(a)
 b = int(b)
 
+print("Menghitung...")
+
 jikaTambah = oper == "+"
 
 hasil = -1
